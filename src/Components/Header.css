@@ -1,0 +1,19 @@
+.hero-logo{
+    width: 80px;
+}
+.parent{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid black;
+    border-radius: 8%;
+}
+.right-container{
+    display: flex;
+}
+ul{
+    display: flex;
+}
+li{
+    padding: 20px;
+    margin-right: 2%;
+}
